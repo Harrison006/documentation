@@ -4,19 +4,19 @@ When setting a new domain up make sure to use a TLD not .local, it makes life a 
 ## Emails
 Azure and local dc sync, if the account needs an email or license it needs to have a .com not .local to get the proper email
 
-![](ad1.png)
+![](./images/ad1.png)
 
 # **Removing a DC**
 
 **Before deleting the domain controller or turning it off for its last time, make sure you demote it as a domain controller AND TICK THE META DATA CLEANUP BOX, otherwise you will face major issues with delegation and replication**
 
-![](ad2.png)
+![](./images/ad2.png)
 
 # Groups and Users
 When making AD accounts that aren't actual people its best idea for everyone else to understand wtf your actually doing you should put a description of what the account does
 
-![](ad4.png)
-![](ad3.png)
+![](./images/ad4.png)
+![](./images/ad3.png)
 
 # Computer and Server OU's
 

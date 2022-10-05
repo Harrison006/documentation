@@ -5,7 +5,7 @@ Best idea to have 2 extra 500gb drives and put them in parody as it makes it fas
 
 Best to have the C:\ more than 50GB 
 
-![](mecm1.png)
+![](./images/mecm1.png)
 
 Create the following drives
 
@@ -57,8 +57,8 @@ Make sure the MECM host has PXE boot off until all settings are finalised
 
 
 # Troubleshooting stick Dirstrobution
-![](mecm2.png)
-![](mecm3.png)
+![](./images/mecm2.png)
+![](./images/mecm3.png)
 
 # Azure Endpoint Manager
 Azure Endpoint manager is easy for mobile devices and lots of them as they are not always on preemies
@@ -70,4 +70,4 @@ Enabling bit locker is good practice but older devices may not support
 
 Make Sure to boot into UEFI when using bitlocker
 
-![](mecm4.png)
+![](./images/mecm4.png)
