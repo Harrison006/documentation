@@ -1,3 +1,8 @@
+# **Warning**
+
+**VScode Powershell using some newer types of Environment Varibles and some commands work differently**
+
+**I am using powershell ISE (x86) you may use VScode just aslong as you know what your doing**
 
 
 ## Install PowerShell
