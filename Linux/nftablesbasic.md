@@ -1,4 +1,4 @@
-# Basic ASS config
+# Basic ASS config of nftables
 this is the most bassic config with ssh 22 port forward (**obviously dont use in real case**)
 
 ```yaml
@@ -20,8 +20,15 @@ Make sure you enable ip forwarding under
 sysctl -w net.ipv4.ip_forward=1
 
 OR
-
+```bash
 sudo nano /etc/sysctl.conf
+```
 And find the line that is # out
 And make sure it looks like 
+```
 net.ipv4.ip_forward = 1
+```
+NOT
+```
+#net.ipv4.ip_forward = 1
+```
