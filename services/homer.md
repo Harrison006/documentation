@@ -8,6 +8,24 @@ The best way you could live edit this dashboard is you could use a SSH plugin fo
 
 
 Or use a NFS share and edit through that 
+# Docker-Compose
+
+```yml
+---
+version: "2"
+ services:
+   homer:
+     image: b4bz/homer
+     container_name: homer
+     volumes:
+       - /path/to/homer:/www/assets
+     ports:
+       - 89:8080
+     environment:
+       - UID=1000
+       - GID=1000
+     restart: unless-stopped
+```
 
 # Example config
 
