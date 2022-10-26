@@ -61,7 +61,7 @@ Its also running Vmware ESX 6.5
 
 # Synology Nas
 I cant remeber the name
-# Storage
+## Storage
 4x 4tb Seagate Consumer Drives (raid 0)
 
 yeah i know they should be in a raid 5 but the data just piled on and i dont have an out

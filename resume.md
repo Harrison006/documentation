@@ -2,7 +2,7 @@
 
 What i specialize in
 
-- Networking, Ubiquiti, HPE, cisco
+- Networking
 - Windows AD
 - Microsoft Azure, MECM
 
@@ -12,7 +12,7 @@ Check the folders in this repository, its got my understanding of basic topics o
 
 
 ## My IT journey
-![](./images/20221022_135443.jpg)
+![](./images/servers.jpg)
 pic of my *rack* aka a desk
 
 My IT journey started back when i was around 8-9ish when i got given an old Windows XP pc from my Mum and dad, and from there it started, from there i got handed randome laptops from my parents friends and i used to do a bunch, used to make game servers for my buddies, ways to get around the school internet.
