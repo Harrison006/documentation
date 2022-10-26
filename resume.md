@@ -49,3 +49,20 @@ At QML i was using AD and SCCM (MECM) (for my first time in the wild), my first 
 - Powershell Scripting
     - I have used powershell before and the scripting aspects of it make it a really powerful tool, Especially for those who are willing to learn, Willing to make their production environment more efficient. ive made multiple little powershell scripts to make my life easier, such as one to sync and setup the time settings on a Domain Controller
     - I want to learn more aspects of powershell scripting as to make my life easier say setting up a windows server, Provisioning clients, and overall performing mundane tasks
+
+# Strengths And weaknesses
+
+## Strengths
+
+- Im willing to learn, study
+- Im willing to spend extra time on a project
+- I have dedication to something i start i have to finish it
+- I can volenteer some of my time, to help
+- i dont mind staying back 
+
+## Weaknesses
+
+- If i dont like something, i wont hold back and Tell you (sometimes with no filter).
+- I dont like Morning starts more than 5 times in one week.
+- I make sure the job is perfect if i think it should be, spending to much time on something.
+- i like to be left alone at times to do my own work.
