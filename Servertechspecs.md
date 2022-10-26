@@ -58,6 +58,7 @@ Its also running Vmware ESX 6.5
 64Gb DDR3 normal ram
 ### Storage
 5 dell 500gb 10k sas drives (raid 6)
+1x 8tb seagate drive directly mapped to a windows vm
 
 # Synology Nas
 I cant remeber the name
