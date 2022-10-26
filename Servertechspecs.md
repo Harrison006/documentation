@@ -1,3 +1,4 @@
+![](./images/servers.jpg)
 # Dell R820
 
  Running XCP-ng with XOA appliance
@@ -58,3 +59,11 @@ Its also running Vmware ESX 6.5
 ### Storage
 5 dell 500gb 10k sas drives (raid 6)
 
+# Synology Nas
+I cant remeber the name
+# Storage
+4x 4tb Seagate Consumer Drives (raid 0)
+
+yeah i know they should be in a raid 5 but the data just piled on and i dont have an out
+
+they are just sitting their waiting to die tbh
