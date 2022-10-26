@@ -18,7 +18,7 @@ PowerShell was made open-source and cross-platform with PowerShell Core, and can
 ```
 
 ### Linux (Ubuntu)
-```sh
+```bash
 # Update the list of packages
 sudo apt-get update
 # Install pre-requisite packages.

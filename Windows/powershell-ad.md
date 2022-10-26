@@ -29,25 +29,17 @@ Get-ADComputer -Filter "name -like '*'" -Properties operatingSystem | group -Pro
 ```powershell
 $csv = Import-csv -Path "C:\Users\test\Desktop\groups.csv"
 $name=$item.GroupName
-
 Foreach ($item in $csv)
 {
-
     try
 { 
-      
     New-ADGroup -Name $item.GroupName -GroupCategory $item.GroupCategory -groupScope $item.groupScope -Path $item.OU
     Write-Host -ForeGroundColor Green "Group $($item.GroupName) created!"
-
 }
-
 catch
 {
-
 Write-Host "Group already exists $name"
-
 }
-
 }
 ```
 simply make a list of groups like
