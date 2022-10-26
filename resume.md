@@ -38,6 +38,8 @@ At QML i was using AD and SCCM (MECM) (for my first time in the wild), my first 
 - High Level networking, 
     - Setup S2S Networking VPN
     - Setup Mutiple SOHO networks, Small Businesses
+    - VSAN, Sans
+    - Complicated DHCP subnets
 - VDI, Kasm workspaces, Citrix VDI, MS vdi
     - ive used and deployed MS vdi Multiple Times in a lab environment and used in the real world environment
 - General understanding on Linux, Bash terminal
