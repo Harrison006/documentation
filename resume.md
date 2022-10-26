@@ -21,9 +21,12 @@ My now understanding is much much greater now, the basic principals i used to kn
 
 At QML i was using AD and SCCM (MECM) (for my first time in the wild), my first time there inspired me so much to start learning the basic principals i needed In the Sytems admin / Network Admin space. From there i learned Windows Server Management, I learned how to use SCCM to image devices, Learnt a little about the basic troubleshooting of citrix appliances.
 
+What ive Currently got done, im finishing year 11, Ive completed a Cert III at Tafe On ICT General Foundations, the course was outlining all the Documentation on how you would go about in IT, covering the basic laws of privacy, How to Make a basic HTML Website, Coding a terminal application in C#, Making a simple Active Directory Setup
 
 
-## What do i have a basic understanding of
+
+
+# What do i have a basic understanding of
 
 #### What i have a really good understanding of
 
