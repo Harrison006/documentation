@@ -41,6 +41,8 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 - High Level networking, 
     - Setup S2S Networking VPN
     - Setup Mutiple SOHO networks, Small Businesses
+    - VSAN, Sans
+    - Complicated DHCP subnets
 - VDI, Kasm workspaces, Citrix VDI, MS vdi
     - ive used and deployed MS vdi Multiple Times in a lab environment and used in the real world environment
 - General understanding on Linux, Bash terminal
