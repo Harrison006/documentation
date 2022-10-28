@@ -62,12 +62,11 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 - Im willing to learn, study
 - Im willing to spend extra time on a project
 - I have dedication to something i start i have to finish it
-- I can volenteer some of my time, to help
-- i dont mind staying back 
+- I can volunteer some of my time, to help
+- i don't mind staying back 
 
 ## Weaknesses
 
 - If i dont like something, i wont hold back and Tell you (sometimes with no filter).
-- I dont like Morning starts more than 5 times in one week.
-- I make sure the job is perfect if i think it should be, spending to much time on something.
+- I make sure the job is perfect if i think it should be, spending too much time on something.
 - i like to be left alone at times to do my own work.
