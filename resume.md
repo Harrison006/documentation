@@ -35,7 +35,7 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
     - Setup proper DNS delegation
     - Setup DFS and had them replicate to a remote site
 - Microsoft Configuration Endpoint Manager
-    - Setup 2 SCCM Distrubution points, 2 Different AD sites
+    - Setup 2 SCCM Distribution points, 2 Different AD sites
     - Made Sure Replication of Both Sites was working
 - Basic Docker Compose Configuration
 - High Level networking, 
