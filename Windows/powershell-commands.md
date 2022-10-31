@@ -1,4 +1,4 @@
-# Some random Powershell commands
+# Helpful ps commands
 this is a dump of random commands i have used
 
 # RoboCopy
