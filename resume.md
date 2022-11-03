@@ -2,7 +2,7 @@
 
 What i specialize in
 
-- Networking
+- Networking, basic firewall configuration, routing, subnetting
 - Windows AD
 - Microsoft Azure, MECM
 
@@ -53,7 +53,7 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 
 - Powershell Scripting
     - I have used powershell before and the scripting aspects of it make it a really powerful tool, Especially for those who are willing to learn, Willing to make their production environment more efficient. ive made multiple little powershell scripts to make my life easier, such as one to sync and setup the time settings on a Domain Controller
-    - I want to learn more aspects of powershell scripting as to make my life easier say setting up a windows server, Provisioning clients, and overall performing mundane tasks
+    - I want to learn more aspects of powershell scripting as to make my life easier say setting up a windows server, Provisioning clients, and overall performing mundane taskss
 
 # Strengths And weaknesses
 
@@ -64,7 +64,6 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 - I have dedication to something i start i have to finish it
 - I can volunteer some of my time, to help
 - i don't mind staying back 
-
 ## Weaknesses
 
 - If i dont like something, i wont hold back and Tell you (sometimes with no filter).
