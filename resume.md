@@ -2,7 +2,7 @@
 
 What i specialize in
 
-- Networking
+- Networking, basic firewall configuration, routing, subnetting
 - Windows AD
 - Microsoft Azure, MECM
 
@@ -15,7 +15,7 @@ Check the folders in this repository, its got my understanding of basic topics o
 ![](./images/servers.jpg)
 pic of my *rack* aka a desk
 
-My IT journey started back when i was around 8-9ish when i got given an old Windows XP pc from my Mum and dad, and from there it started, from there i got handed random laptops from my parents friends and i used to do a bunch, used to make game servers for my buddies, and whatnot4
+My IT journey started back when i was around 8-9ish when i got given an old Windows XP pc from my Mum and dad, and from there it started, from there i got handed random laptops from my parents friends and i used to do a bunch, used to make game servers for my buddies, and what not
 
 My now understanding is much much greater now, the basic principals i used to know i have greatly expanded into now, ive now got such a massive Home lab with over powered servers for what i do, But i appreciate everything i own and how. Ive come a long way from where i started out, just running vms on my main desktop and evaluating them there, but i loved the aspect of running a proper production environment that i could test and delpoy products i had used on my time at QML on work experience.
 
@@ -53,7 +53,7 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 
 - Powershell Scripting
     - I have used powershell before and the scripting aspects of it make it a really powerful tool, Especially for those who are willing to learn, Willing to make their production environment more efficient. ive made multiple little powershell scripts to make my life easier, such as one to sync and setup the time settings on a Domain Controller
-    - I want to learn more aspects of powershell scripting as to make my life easier say setting up a windows server, Provisioning clients, and overall performing mundane tasks
+    - I want to learn more aspects of powershell scripting as to make my life easier say setting up a windows server, Provisioning clients, and overall performing mundane taskss
 
 # Strengths And weaknesses
 
@@ -64,7 +64,6 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 - I have dedication to something i start i have to finish it
 - I can volunteer some of my time, to help
 - i don't mind staying back 
-
 ## Weaknesses
 
 - If i dont like something, i wont hold back and Tell you (sometimes with no filter).
