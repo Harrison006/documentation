@@ -21,9 +21,7 @@ When making AD accounts that aren't actual people its best idea for everyone els
 # Computer and Server OU's
 
 When setting up AD its best practise to also setup OU's for servers and computers so it makes it easier to apply GPO's to the correct machines for instance: 
-	
-![](ad5.png)
-	
+![](./images/ad5.png)
 	
 Its best to keep the server OU separate from the Client computers OU as you may apply an administrative GPO for a client computer on accident
 
