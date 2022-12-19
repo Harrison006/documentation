@@ -81,6 +81,8 @@ Hit Finish
 
 # GPO for Ad clients (optional)
 
+
+Create the GPO in the USERS folder or where you store your users in AD
 ![](./images/gpo-1.png)
 ![](./images/gpo-2.png)
 
