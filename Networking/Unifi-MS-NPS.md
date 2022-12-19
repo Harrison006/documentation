@@ -79,6 +79,34 @@ Hit Finish
 
 ![](./images/nps-17.png)
 
+# GPO for Ad clients (optional)
+
+![](./images/gpo-1.png)
+![](./images/gpo-2.png)
+
+Computer Configuration > Windows Settings > Security Settings > Public Key Policies 
+
+double click Certificate Services Client Enrollment and fill out the as the image blow is
+
+![](./images/gpo-3.png)
+![](./images/gpo-4.png)
+
+Expand Public Key policies and right click Automatic certificate request settings and click new automatic certificate request
+
+![](./images/gpo-5.png)
+
+Click next
+
+![](./images/gpo-6.png)
+
+Make sure you select Computer
+
+![](./images/gpo-7.png)
+
+Click finish and your done!
+
+![](./images/gpo-8.png)
+
 # Unifi Setup
 
 This is pretty straight forward
@@ -99,3 +127,5 @@ Same for the accounting server
 For your Wifi Settings you will need to change from WPA-personal to WPA-Enterprise and select the Profile we made just before, Make sure to Require PMF, this helps with connecting clients and so they dont have issues
 
 ![](./images/unifi-3.png)
+
+Source: https://patrickdomingues.com/2021/10/27/how-to-configure-windows-server-and-unifi-controller-for-radius-wifi-access/
