@@ -63,7 +63,7 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 - Im willing to spend extra time on a project
 - I have dedication to something i start i have to finish it
 - I can volunteer some of my time, to help
-- i don't mind staying back 
+- i'm willing to stay back
 ## Weaknesses
 
 - If i dont like something, i wont hold back and Tell you (sometimes with no filter).
