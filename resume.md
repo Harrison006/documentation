@@ -21,7 +21,7 @@ My now understanding is much much greater now, the basic principals i used to kn
 
 At QML i was using AD and SCCM (MECM) (for my first time in the wild), my first time there inspired me so much to start learning the basic principals i needed In the Sytems admin / Network Admin space. From there i learned Windows Server Management, I learned how to use SCCM to image devices, Learnt a little about the basic troubleshooting of citrix appliances.
 
-What ive Currently got done, im finishing year 11, Ive completed a Cert III at Tafe On ICT General Foundations, the course was outlining all the Documentation on how you would go about in IT, covering the basic laws of privacy, How to Make a basic HTML Website, Coding a terminal application in C#, Making a simple Active Directory Setup
+What ive Currently got done, ive finished year 11, Ive completed a Cert III at Tafe On ICT General Foundations, the course was outlining all the Documentation on how you would go about in IT, covering the basic laws of privacy, How to Make a basic HTML Website, Coding a terminal application in C#, Making a simple Active Directory Setup overall it was a simple course, and to be honest i had already taught myself how to do ad and website coding (the web coding was really basic but thats the knowledge i already had), What im going to keep learning is, about MECM (SCCM) and AD, currently in my homelab environment ive got just 1 DC again but im currently learning how to make 2 SCCM hosts replicate and ill soon setup a second DC, just waiting for an ssd to arrive so its all on safe storage 
 
 
 
@@ -53,7 +53,8 @@ What ive Currently got done, im finishing year 11, Ive completed a Cert III at T
 
 - Powershell Scripting
     - I have used powershell before and the scripting aspects of it make it a really powerful tool, Especially for those who are willing to learn, Willing to make their production environment more efficient. ive made multiple little powershell scripts to make my life easier, such as one to sync and setup the time settings on a Domain Controller
-    - I want to learn more aspects of powershell scripting as to make my life easier say setting up a windows server, Provisioning clients, and overall performing mundane taskss
+    - I want to learn more aspects of powershell scripting as to make my life easier say setting up a windows server, Provisioning clients, and overall performing mundane tasks
+
 
 # Strengths And weaknesses
 
